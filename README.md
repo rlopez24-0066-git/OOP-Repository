@@ -7,8 +7,8 @@
       <h1 align="left">✨ Welcome to My GitHub | Russel Lopez 🚀</h1>
       
   <p>
-    I'm a passionate college student exploring the world of programming and technology.<br>
-    I enjoy the challenges that programing gives me, coming up with a solution, and expanding my knowledge every day.<br>
+    I'm a passionate college student exploring the world of programming and technology.
+    I enjoy the challenges that programing gives me, coming up with a solution, and keep expanding my knowledge every day.
     I believe technology can change fast, and it's my dream to change it as well.  
   </p>
     </td>
