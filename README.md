@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="20%" align="center">
-      <img src="https://raw.githubusercontent.com/LanceEthy/LanceEthy/refs/heads/main/image/ethy.jpg" alt="Lance David" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
+      <img src="images/rus.jpg" alt="Lance David" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
     </td>
     <td width="70%" valign="top">
       <h1 align="left">✨ Welcome to My GitHub | Russel Lopez 🚀</h1>
