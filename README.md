@@ -1,15 +1,15 @@
 <table>
   <tr>
     <td width="20%" align="center">
-      <img src="images/rus.jpg" alt="Lance David" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
+      <img src="images/rus.jpg" alt="Profile pic" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
     </td>
     <td width="70%" valign="top">
-      <h1 align="left">✨ Welcome to My GitHub | Russel Lopez 🚀</h1>
+      <h1 align="left">🚀 Welcome to My GitHub | Russel Lopez 🚀</h1>
       
   <p>
     I'm a passionate college student exploring the world of programming and technology.
-    I enjoy the challenges that programing gives me, coming up with a solution, and keep expanding my knowledge every day.
-    I believe technology can change fast, and it's my dream to change it as well.  
+    I enjoy the challenges that programming gives me, coming up with a solution, and keep expanding my knowledge every day.
+    Technology can change faster than what we anticipate, and it's my dream to be part of that change as well.  
   </p>
     </td>
     
