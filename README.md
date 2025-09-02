@@ -1,23 +1,19 @@
 <table>
   <tr>
-    <!-- Profile Picture -->
-    <td width="25%" align="center">
-      <img src="" 
-           alt="Russel Lopez" 
-           width="200" 
-           style="border-radius:50%;" />
+    <td width="20%" align="center">
+      <img src="https://raw.githubusercontent.com/LanceEthy/LanceEthy/refs/heads/main/image/ethy.jpg" alt="Lance David" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
     </td>
-
-  <h1 align="center">🚀 Welcome to My GitHub | Russel Lopez 🚀</h1>
-
-<h3 align="center">Passionate Student Developer</h3>
-
-<p align="center">
-  I'm a passionate college student exploring the world of programming and technology.<br>
-  I enjoy the challenges that programing gives me, coming up with a solution, and expanding my knowledge every day.<br>
-  I believe technology can change fast, and it's my dream to change it as well.
-</p>
-<hr>
+    <td width="70%" valign="top">
+      <h1 align="left">✨ Welcome to My GitHub | Russel Lopez 🚀</h1>
+      
+  <p>
+    I'm a passionate college student exploring the world of programming and technology.<br>
+    I enjoy the challenges that programing gives me, coming up with a solution, and expanding my knowledge every day.<br>
+    I believe technology can change fast, and it's my dream to change it as well.  
+  </p>
+    </td>
+    
+  </tr>
 </table>
 
 <h2>🛠️ Skills</h2>
