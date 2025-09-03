@@ -34,7 +34,7 @@
 <h2>📂 Projects</h2>
 <p>This is where my projects will appear:</p>
 <ul>
-  <li>✏️ <a href="#">Project 1 - Coming Soon</a></li>
+  <li>✏️ <a href="[#](https://docs.google.com/document/d/1JdzIEdLT3SnoZj2yktz9NQuIK9h8lipcTArakrSigA8/edit?usp=sharing)">Project 1 - Midterm Lab Task 2 Loop Construct</a></li>
   <li>✏️ <a href="#">Project 2 - Coming Soon</a></li>
   <li>✏️ <a href="#">Project 3 - Coming Soon</a></li>
 </ul>
