@@ -4,7 +4,7 @@
       <img src="images/rus.jpg" alt="Profile pic" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
     </td>
     <td width="70%" valign="top">
-      <h1 align="left">🚀 Welcome to My GitHub | Russel Lopez 🚀</h1>
+      <h1 align="left"> Welcome to My GitHub | Russel Lopez </h1>
       
   <p>
     I'm a passionate college student exploring the world of programming and technology.
@@ -17,7 +17,7 @@
 </table>
 
 <h2>🛠️ Skills</h2>
-<p><b>Interests:</b> Backend Development, Web Applications, Game Development, App Development</p>
+<p><b>Interests:</b>Web Applications, Game Development, App Development</p>
 
 <p><b>Languages:</b></p>
 <p>
