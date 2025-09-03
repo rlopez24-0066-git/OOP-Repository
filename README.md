@@ -9,7 +9,7 @@
   <p>
     I'm a passionate college student exploring the world of programming and technology.
     I enjoy the challenges that programming gives me, coming up with a solution, and keep expanding my knowledge every day.
-    Technology can change faster than what we anticipate, and it's my dream to be part of that change as well.  
+    Technology can change faster than what we anticipate, and it's my dream to change it as well.  
   </p>
     </td>
     
