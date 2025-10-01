@@ -8,8 +8,8 @@
       
   <p>
     I'm a passionate college student exploring the world of programming and technology.
-    I enjoy the challenges that programming gives me, coming up with solutions, and to keep expanding my knowledge every day.
-    Technology can change faster than what we anticipate, and it's my dream to change it as well.  
+    I enjoy the challenges that programming gives me, coming up with solutions and to keep expanding my knowledge every day.
+    Technology evolves faster than we can anticipate, and my dream is to be part of shaping that change. 
   </p>
     </td>
     
@@ -36,7 +36,11 @@
 <ul>
   <li>✏️ <a href="https://docs.google.com/document/d/1o-xWUObE9C5o1FTpFi87XN3bE9Zm3JcQQZrWKbiojm8/edit?usp=sharing">Project 1 - Midterm Lab Task 1 Getting started with Python</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1JdzIEdLT3SnoZj2yktz9NQuIK9h8lipcTArakrSigA8/edit?usp=sharing">Project 2 - Midterm Lab Task 2 Loop Construct</a></li>
-  <li>✏️ <a href="#">Project 3 - Coming Soon</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1CkfzIstDXd1jnWyImPl_cdOd_NcUvsKB/edit?usp=sharing&ouid=114309544275202004213&rtpof=true&sd=true">Project 3 - Midterm Lab Task 3. Using List Collections</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1vqu-KfFE89QTYoCS9eXQh-2bbqQrjjZc6R1tp_4PpzI/edit?usp=sharing">Project 4 - Midterm Lab Task 4. Using Dictionary Collections</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1izl64Km_WkdQCXZyMTVIzTu8wcY5c_Q_8A-7T3MgJYI/edit?usp=sharing">Project 5 - Midterm Lab Task 5. Creating and Instantiating Classes</a></li>
+  <li>✏️ <a href="#">Project 6 - Midterm Lab Task 6. Overloaded Consturctors(ON GOING)</a></li>
+  
 </ul>
 
 <hr>
