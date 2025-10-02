@@ -39,7 +39,7 @@
   <li>✏️ <a href="https://docs.google.com/document/d/1CkfzIstDXd1jnWyImPl_cdOd_NcUvsKB/edit?usp=sharing&ouid=114309544275202004213&rtpof=true&sd=true">Project 3 - Midterm Lab Task 3. Using List Collections</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1vqu-KfFE89QTYoCS9eXQh-2bbqQrjjZc6R1tp_4PpzI/edit?usp=sharing">Project 4 - Midterm Lab Task 4. Using Dictionary Collections</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1izl64Km_WkdQCXZyMTVIzTu8wcY5c_Q_8A-7T3MgJYI/edit?usp=sharing">Project 5 - Midterm Lab Task 5. Creating and Instantiating Classes</a></li>
-  <li>✏️ <a href="https://docs.google.com/document/d/1O__n-WplqWYtw20_fgp1mHkj50q6bSJltOqcXiqU6b0/edit?usp=sharing">Project 6 - Midterm Lab Task 6. Overloaded Consturctors(ON GOING)</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1O__n-WplqWYtw20_fgp1mHkj50q6bSJltOqcXiqU6b0/edit?usp=sharing">Project 6 - Midterm Lab Task 6. Overloaded Consturctors</a></li>
   
 </ul>
 
@@ -49,7 +49,7 @@
 <ul>
   <li>📚 I love reading <b>manhwa, manga, and manhua</b>.</li>
   <li>🍳 I'm good at <b>cleaning and cooking</b>.</li>
-  <li>✋ I like <b>her</b>.</li>
+  <li>✋ I still like <b>her</b>.</li>
 </ul>
 
 <hr>
