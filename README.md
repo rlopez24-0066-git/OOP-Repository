@@ -1,5 +1,5 @@
 <div style="background-color:#0f0f0f; color:white; padding:20px; border-radius:10px;">
-<table>
+<table style="background-color:#0f0f0f; color:white; padding:20px; border-radius:10px;">
   <tr>
     <td width="20%" align="center">
       <img src="images/rus.jpg" alt="Profile pic" width="220"/>
