@@ -1,4 +1,4 @@
-<table>
+<table style="background-color:#0f0f0f; color:white; border-collapse:collapse; width:100%;">
   <tr>
     <td width="20%" align="center">
       <img src="images/rus.jpg" alt="Profile pic" width="220"/>
