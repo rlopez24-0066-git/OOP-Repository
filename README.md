@@ -1,7 +1,18 @@
+<html>
+<head>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+<img width="481" height="65" alt="image" src="https://github.com/user-attachments/assets/3d66549e-fd7b-48f9-be9b-3c79dd86d5ef" />
 <table>
   <tr>
     <td width="20%" align="center">
-      <img src="images/rus.jpg" alt="Profile pic" width="220""/>
+      <img src="images/rus.jpg" alt="Profile pic" width="220"/>
     </td>
     <td width="70%" valign="top">
       <h1 align="left"> Welcome to My GitHub || Russel Lopez </h1>
@@ -15,12 +26,6 @@
     
   </tr>
 </table>
-<style>
-  body {
-    background-color: #0f0f0f;
-    color: white;
-  }
-</style>
 
 <h2>🛠️ Skills</h2>
 <p><b>Interests:</b> <br> </br> Web Applications, Game Development, App Development</p>
@@ -69,3 +74,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+</body>
+</html>
