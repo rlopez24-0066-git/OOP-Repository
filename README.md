@@ -1,23 +1,21 @@
-<table style="background-color:#0f0f0f; color:white; border-collapse:collapse; width:100%;">
+<table>
   <tr>
     <td width="20%" align="center">
       <img src="images/rus.jpg" alt="Profile pic" width="220"/>
     </td>
     <td width="70%" valign="top">
       <h1 align="left"> Welcome to My GitHub || Russel Lopez </h1>
-      
   <p>
     I'm a passionate college student exploring the world of programming and technology.
     I enjoy the challenges that programming gives me, coming up with solutions and to keep expanding my knowledge every day.
     Technology evolves faster than we can anticipate, and my dream is to be part of shaping that change. 
   </p>
     </td>
-    
   </tr>
 </table>
-<div style="background-color:#0f0f0f; color:white; padding:20px; border-radius:10px;">
+
 <h2>🛠️ Skills</h2>
-<p><b>Interests:</b><br>Web Applications, Game Development, App Development</p>
+<p><b>Interests:</b><br><br>Web Applications, Game Development, App Development</p>
 
 <p><b>Languages:</b></p>
 <p>
@@ -63,4 +61,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-</div>
