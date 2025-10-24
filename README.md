@@ -1,4 +1,3 @@
-<div style="background-color:#0f0f0f; padding:20px;">
 <table>
   <tr>
     <td width="20%" align="center">
@@ -64,4 +63,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-</div>
