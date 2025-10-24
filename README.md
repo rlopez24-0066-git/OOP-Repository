@@ -1,4 +1,4 @@
-<div style="background-color:#0f0f0f; color:white; padding:20px;">
+<div style="background-color:#0f0f0f; padding:20px;">
 <table>
   <tr>
     <td width="20%" align="center">
@@ -18,7 +18,7 @@
 </table>
 
 <h2>🛠️ Skills</h2>
-<p><b>Interests:</b> <br> </br> Web Applications, Game Development, App Development</p>
+<p><b>Interests:</b><br>Web Applications, Game Development, App Development</p>
 
 <p><b>Languages:</b></p>
 <p>
