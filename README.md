@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="20%" align="center">
-      <img src="images/rus.jpg" alt="Profile pic" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
+      <img src="images/rus.jpg" alt="Profile pic" width="220""/>
     </td>
     <td width="70%" valign="top">
       <h1 align="left"> Welcome to My GitHub || Russel Lopez </h1>
@@ -15,9 +15,15 @@
     
   </tr>
 </table>
+<style>
+  body {
+    background-color: #0f0f0f;
+    color: white;
+  }
+</style>
 
 <h2>🛠️ Skills</h2>
-<p><b>Interests:</b><br></br>Web Applications, Game Development, App Development</p>
+<p><b>Interests:</b> <br> </br> Web Applications, Game Development, App Development</p>
 
 <p><b>Languages:</b></p>
 <p>
