@@ -1,6 +1,5 @@
-<div style="background-color:#0f0f0f; color:white; padding:20px; border-radius:10px;">
 <table>
-  <tr  style="background-color:#0f0f0f; color:white; padding:20px; border-radius:10px;">
+  <tr>
     <td width="20%" align="center">
       <img src="images/rus.jpg" alt="Profile pic" width="220"/>
     </td>
@@ -16,7 +15,7 @@
     
   </tr>
 </table>
-
+<div style="background-color:#0f0f0f; color:white; padding:20px; border-radius:10px;">
 <h2>🛠️ Skills</h2>
 <p><b>Interests:</b><br>Web Applications, Game Development, App Development</p>
 
