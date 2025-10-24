@@ -1,5 +1,4 @@
 <div style="background-color:#0f0f0f; color:white; padding:20px;">
-<img width="481" height="65" alt="image" src="https://github.com/user-attachments/assets/3d66549e-fd7b-48f9-be9b-3c79dd86d5ef" />
 <table>
   <tr>
     <td width="20%" align="center">
