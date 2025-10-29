@@ -32,7 +32,7 @@
 <h2>📂 Projects</h2>
 <p>This is where my projects will appear:</p>
 <ul>
-  <li>✏️ <a href="https://docs.google.com/document/d/1kTO32TslD2ViWdA6Upd8Wis_J8e6vY7Wos0jlKGWyuA/edit?usp=sharing">Project 0 - Midterm Paired Task 1</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1UMktg7OaThhe2K-ZC4P_wr9I7Zrnjd1Xf41AuldWXvA/edit?usp=sharing">Project 0 - Midterm Paired Task 1</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1o-xWUObE9C5o1FTpFi87XN3bE9Zm3JcQQZrWKbiojm8/edit?usp=sharing">Project 1 - Midterm Lab Task 1 Getting started with Python</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1JdzIEdLT3SnoZj2yktz9NQuIK9h8lipcTArakrSigA8/edit?usp=sharing">Project 2 - Midterm Lab Task 2 Loop Construct</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1CkfzIstDXd1jnWyImPl_cdOd_NcUvsKB/edit?usp=sharing&ouid=114309544275202004213&rtpof=true&sd=true">Project 3 - Midterm Lab Task 3. Using List Collections</a></li>
