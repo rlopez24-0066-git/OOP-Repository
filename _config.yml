@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+colors:
+  # Basic UI colors
+  background: "#000000"
+  foreground: "#FFFFFF"
+
+  # Text colors
+  text_primary: "#FFFFFF"
+  text_secondary: "#CCCCCC" # A lighter grey for secondary text
+  text_disabled: "#888888"  # A medium grey for disabled text
+
+  # Interface element colors
+  primary_accent: "#FFFFFF" # For hyperlinks, buttons, etc.
+  border_color: "#333333"    # A dark grey for borders
+  selection_background: "#1A1A1A" # A slightly lighter black for selection highlighting
+  input_background: "#000000"
+  input_text: "#FFFFFF"
+
+  # Status colors
+  success: "#4CAF50" # A hint of color can be used for status messages
+  warning: "#FFC107"
+  error: "#F44336"
