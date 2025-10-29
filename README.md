@@ -39,7 +39,8 @@
   <li>✏️ <a href="https://docs.google.com/document/d/1vqu-KfFE89QTYoCS9eXQh-2bbqQrjjZc6R1tp_4PpzI/edit?usp=sharing">Project 4 - Midterm Lab Task 4. Using Dictionary Collections</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1izl64Km_WkdQCXZyMTVIzTu8wcY5c_Q_8A-7T3MgJYI/edit?usp=sharing">Project 5 - Midterm Lab Task 5. Creating and Instantiating Classes</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1O__n-WplqWYtw20_fgp1mHkj50q6bSJltOqcXiqU6b0/edit?usp=sharing">Project 6 - Midterm Lab Task 6. Overloaded Consturctors</a></li>
-  <li>✏️ <a href="https://docs.google.com/document/d/1O__n-WplqWYtw20_fgp1mHkj50q6bSJltOqcXiqU6b0/edit?usp=sharing">Project 7 - Finals Lab Task 1. Encapsulation</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1ktgmPtT8zKSfF8cLolLG3iwN4e2AJpb8cDq88fKe634/edit?usp=sharing">Project 7 - Finals Lab Task 1. Encapsulation</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1cvYJB0Ap6LmU2EzxN9RWJCjbaOsGhw7plzBshOUOQcE/edit?usp=sharing">Project 8 - Finals Task 2. Inheritance</a></li>
 </ul>
 
 <hr>
