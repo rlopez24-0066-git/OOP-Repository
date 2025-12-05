@@ -1,0 +1,16 @@
+html, body {
+  background-color: #000 !important;
+}
+
+.masthead,
+#main,
+.page,
+.page__content,
+.site-footer,
+.site-header {
+  background: #000 !important;
+}
+
+body, p, h1, h2, h3, h4, h5, h6 {
+  color: #e6e6e6 !important;
+}
