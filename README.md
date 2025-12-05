@@ -44,6 +44,8 @@
   <li>✏️ <a href="https://docs.google.com/document/d/1hhRJ9UIDh9MMO317dcRj9MXmUj7n7LiOMLCZfzsXU3A/edit?usp=sharing">Project 9 - Finals Task 3. Polymorphism</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1Dl_V2LJy1YIYrGuwhaVfc5k4EVzouecgCCf3IpjAWxo/edit?usp=sharing">Project 10 - Finals task 4. Designing Tkinter GUI using OOP</a></li>
   <li>✏️ <a href="https://docs.google.com/document/d/1scKKvp00dHA3I3e-nGFspT-JHsMvRxlFyvW7SJLO1is/edit?usp=sharing">Project 11 - Finals Task 5. Grading Program using Tkinter</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/13SKNwcs4b55gtBtHKCrf5ylBqEcG6UnfJ3kEs3gu72E/edit?usp=sharing">Project 12 - Finals Lab Task 6. Mysql and Pythod CRUD using CLI</a></li>
+  <li>✏️ <a href="https://docs.google.com/document/d/1K4wHilqke5w0GFzrzvpGkLjkxSQ4wLNnq1mKgO99Onc/edit?usp=sharing">Project 13 - Finals Task 7. Tkinter CRUD GUI</a></li>
 </ul>
 
 <hr>
