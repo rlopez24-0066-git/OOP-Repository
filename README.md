@@ -15,7 +15,7 @@
 </table>
 
 <h2>🛠️ Skills</h2>
-<p><b>Interests:</b><br><br>Web Applications, Game Development, App Development</p>
+<p><b>Interests:</b><br><br>Web Applications, Game Development, App Development, Web Development</p>
 
 <p><b>Languages:</b></p>
 <p>
