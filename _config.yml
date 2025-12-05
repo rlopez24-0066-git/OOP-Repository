@@ -1,2 +1,6 @@
-remote_theme: mmistakes/minimal-mistakes
-skin: dark
+defaults:
+  - scope:
+      path: ""
+    values:
+      custom_css:
+        - /assets/css/custom.css
